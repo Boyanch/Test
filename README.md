@@ -1,3 +1,3 @@
 # Test
-The test repository
+The test repository.
 This is additional text to readme.
